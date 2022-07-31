@@ -1,0 +1,191 @@
+body{
+	margin:0;
+	background-image: url(../home/fink.jpg);
+	background-attachment: fixed;
+		
+}
+.active{
+	color: gold;
+	text-shadow: 2px 2px 2px black;
+}
+.sechead{
+	background-color: lightblue;
+	height: 60px;
+	padding-top: 10px;
+	padding-bottom: 0px;	
+}
+.thirdhead{
+	
+}
+.fouthhead{
+	background-color: steelblue;
+	height: 100px;
+}
+footer{
+	text-align: center;
+	font-size: 25px;
+	background-color: steelblue;
+	padding: 12px;
+	color: black;
+
+}
+.align{
+	text-align: left;
+}
+ul{
+	float: left;
+    text-align: absolute;
+    font-size: 25px;
+    color: black;
+    margin: 1;
+}
+
+h4{
+	margin: 0;
+	padding: 4px;
+ 	margin-left: 30px;
+ 	color: black;
+ 	font-family: calibri;
+}
+.hello{
+	margin: 0;
+	color: black;
+	font-size: 60px;
+	margin-left: 120px;
+	text-shadow: 3px 3px 3px black;
+}
+.welcome{
+	margin: 0;
+	color: steelblue;
+	font-size:80px;
+	margin-left: 120px;
+	text-shadow: 3px 2px 2px black;
+}
+.personal{
+	margin: 0;
+	color: white;
+	font-size: 25px;
+	margin-left: 120px;
+	text-shadow: 2px 1px 1px black;
+}
+button{
+	width: 120px;
+	height: 50px;
+	margin-left: 250px;
+	margin-top:5px;
+	border-radius: 20px;
+	background-color: steelblue;
+	color: white;
+}
+.contain{
+	margin-left: 120px;
+}
+.connect{
+	margin: 0;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+
+}
+h1{
+	font-family: Courier New;
+}
+.containss{
+	background-color: rgba(0,0,0,.5);
+	height: 415px;
+	width: 300px;
+	float: left;
+
+}
+.containsss{
+	background-color: rgba(0,0,0,.3);
+	height: 1250px;
+	width: 1000px;
+	float: left;
+	border-radius: 20px 0px 20px;
+	margin-left: 15px;
+}
+.my{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	text-shadow: 3px 3px 3px white;
+	opacity: 0.9;
+	margin: 0;
+}
+
+
+.letter{
+	margin-left: 200px;
+	color: white;
+	font-size: 40px;
+}
+.gall{
+	width: 150px;
+	margin-left: 70px;
+	margin-top: 20px;
+	border-radius: 20px;
+	border: ridge;
+}
+.para{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	margin: 0;
+
+}
+.social{
+	margin: 0;
+	margin-left: 12px;
+	color: black;
+}
+.icon{
+	float: left;	
+	width: 40px;
+	margin: 0;
+	margin-left: 5px;
+}
+.icontain{
+	margin-left: 60px;
+}
+.gallery{
+	width: 300px;
+	height: 300px;
+	margin: 10px;
+	border-radius: 15px;
+	margin-top: 12px;
+	border: 6px solid blue;
+	transition: all .2s ease-in-out;
+}
+.gallery:hover{
+	width: 400px;
+	height: 300px;
+	margin-left: 12px;
+	border-radius: 15px;
+	margin-top: 12px;
+	border: 6px solid blue;
+	transform: scale(1.1);
+}
+.gallerys{
+	width: 70px;
+	height: 200px;
+	margin-left: 12px;
+	border-radius: 15px;
+	margin-top: 12px;
+	border: 6px solid pink;
+	transition: all .2s ease-in-out;
+}
+.gallerys:hover{
+	width: 270px;
+	height: 200px;
+	margin-left: 12px;
+	border-radius: 15px;
+	margin-top: 12px;
+	border: 6px solid pink;
+	transform: scale(1.1);
+}
+
+.holder{
+	margin-left: 40px;
+	margin-top: 20px;
+}

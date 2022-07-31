@@ -1,0 +1,173 @@
+body{
+	margin:0;
+	background-image: url(../home/fink.jpg);
+	background-attachment: fixed;
+		
+}
+.active{
+	color: gold;
+	text-shadow: 2px 2px 2px black;
+}
+.sechead{
+	background-color: lightblue;
+	height: 80px;
+	padding-top: 10px;
+	padding-bottom: 0px;	
+}
+.thirdhead{
+	
+}
+.fouthhead{
+	background-color: steelblue;
+	height: 100px;
+}
+footer{
+	text-align: center;
+	font-size: 25px;
+	background-color: steelblue;
+	padding: 12px;
+	color: white;
+
+}
+.align{
+	text-align: left;
+}
+ul{
+	float: left;
+    text-align: absolute;
+    font-size: 25px;
+    color: white;
+    margin: 1;
+}
+
+h4{
+	margin: 0;
+	padding: 4px;
+ 	margin-left: 30px;
+ 	color: white;
+ 	font-family: calibri;
+}
+.hello{
+	margin: 0;
+	color: white;
+	font-size: 60px;
+	margin-left: 120px;
+	text-shadow: 3px 3px 3px black;
+}
+.welcome{
+	margin: 0;
+	color: steelblue;
+	font-size:80px;
+	margin-left: 120px;
+	text-shadow: 3px 2px 2px black;
+}
+.personal{
+	margin: 0;
+	color: white;
+	font-size: 25px;
+	margin-left: 120px;
+	text-shadow: 2px 1px 1px black;
+}
+button{
+	width: 120px;
+	height: 50px;
+	margin-left: 250px;
+	margin-top:5px;
+	border-radius: 20px;
+	background-color: steelblue;
+	color: white;
+}
+.contain{
+	margin-left: 120px;
+}
+.connect{
+	margin: 0;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+
+}
+h1{
+	font-family: Courier New;
+}
+
+.containsss{
+	background-color: rgba(0,0,0,.3);
+	height: 900px;
+	width: 1200px;
+	float: left;
+	border-radius: 20px;
+	margin-left: 80px;
+}
+.my{
+	color: white;
+	text-align: center;
+	font-size: 80px;
+	text-shadow: 3px 3px 3px black;
+	opacity: 0.9;
+	margin: 0;
+}
+.picss{
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+}
+.parag{
+	margin-left: 700px;
+	font-size: 30px;
+	color: white;
+	text-shadow: 3px 3px 3px black;
+}
+.paragg{
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 570px;
+	margin-right: 50px;
+	font-size: 30px;
+	color: white;
+	text-shadow: 3px 3px 3px black;
+}
+body {font-family: Arial, Helvetica,;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 500px;
+    margin-left: 335px;
+    margin-top: 15px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.co{
+	width: 600px;
+	margin-left: 300px;
+	margin-top: 15px;
+}

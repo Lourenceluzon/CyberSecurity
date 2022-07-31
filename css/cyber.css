@@ -1,0 +1,168 @@
+body{
+	margin:0;
+	background-image: url(../home/fink.jpg);
+	background-attachment: fixed;
+		
+}
+.active{
+	color: gold;
+	text-shadow: 2px 2px 2px black;
+}
+.sechead{
+	background-color: lightblue;
+	height: 80px;
+	padding-top: 10px;
+	padding-bottom: 0px;	
+}
+.thirdhead{
+	
+}
+.fouthhead{
+	background-color: steelblue;
+	height: 100px;
+}
+footer{
+	text-align: center;
+	font-size: 25px;
+	background-color: steelblue;
+	padding: 12px;
+	color: white;
+
+}
+.align{
+	text-align: left;
+}
+ul{
+	float: left;
+    text-align: absolute;
+    font-size: 25px;
+    color: black;
+    margin: 1;
+}
+
+h4{
+	margin: 0;
+	padding: 4px;
+ 	margin-left: 30px;
+ 	color: black;
+ 	font-family: calibri;
+}
+.hello{
+	margin: 0;
+	color: white;
+	font-size: 60px;
+	margin-left: 120px;
+	text-shadow: 3px 3px 3px black;
+}
+.welcome{
+	margin: 0;
+	color: steelblue;
+	font-size:80px;
+	margin-left: 120px;
+	text-shadow: 3px 2px 2px black;
+}
+.personal{
+	margin: 0;
+	color: white;
+	font-size: 25px;
+	margin-left: 120px;
+	text-shadow: 2px 1px 1px black;
+}
+button{
+	width: 120px;
+	height: 50px;
+	margin-left: 250px;
+	margin-top:5px;
+	border-radius: 20px;
+	background-color: steelblue;
+	color: white;
+}
+.contain{
+	margin-left: 120px;
+}
+.connect{
+	margin: 0;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+
+}
+h1{
+	font-family: Courier New;
+}
+
+.containsss{
+	background-color: rgba(0,0,0,.3);
+	height: 800px;
+	width: 1200px;
+	float: left;
+	border-radius: 20px;
+	margin-left: 80px;
+}
+.my{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	text-shadow: 3px 3px 3px white;
+	opacity: 0.9;
+	margin: 0;
+}
+.picss{
+	width: 500px;
+	float: left;
+	margin-left: 40px;
+}
+.parag{
+	margin-left: 700px;
+	font-size: 30px;
+	color: black;
+	text-shadow: 3px 3px 3px white;
+}
+.paragg{
+	text-align: justify;
+    text-justify: inter-word;
+	margin-left: 570px;
+	margin-right: 50px;
+	font-size: 30px;
+	color: white;
+	text-shadow: 3px 3px 3px white
+	;
+}
+.ab{
+	width:300px;
+	margin-left: 150px;
+	border-radius: 40px;
+	border: groove;
+	float: left;
+}
+.name{
+	font-size: 20px;
+	float: left;
+	margin-left: 20px;
+	color: white;
+	background-color: rgba(0,0,0,.4);
+	padding: 20px;
+	border-radius: 30px;
+}
+.social{
+	font-size: 30px;
+	margin-left: 480px;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+.karne{
+	width: 50px;
+	margin-left:6px;
+}
+.am{
+ 	margin-left: 600px;
+}
+.im{
+	font-size: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: justify;
+	color: white;
+	
+}
+

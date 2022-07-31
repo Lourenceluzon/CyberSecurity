@@ -1,0 +1,107 @@
+body{
+	margin:0;
+}
+.active{
+	color: yellow;
+	text-shadow: 2px 2px 2px white;
+}
+
+.index{
+	float: left
+	width: 900px;
+	height: 400px;
+	border: ridge;
+	border-radius: 30px;
+	box-shadow: 8px 4px 4px white;
+
+}
+
+.sechead{
+	background-color: lightblue;
+	height: 60px;
+	padding-top: 10px;
+	padding-bottom: 0px;	
+}
+.thirdhead{
+	background-image: url(../home/fink.jpg);
+	height: 700px;
+	background-color: green;
+}
+.fouthhead{
+	background-color: steelblue;
+	height: 100px;
+}
+footer{
+	text-align: center;
+	font-size: 25px;
+	background-color: steelblue;
+	padding: 12px;
+	color: white;
+
+
+}
+.align{
+	text-align: left;
+}
+ul{
+	float: left;
+    text-align: absolute;
+    font-size: 25px;
+    color: black;
+    margin: 1;
+	font-weight: bolder;
+	letter-spacing: 5px;
+
+}
+
+
+h4{
+	margin: 0;
+	padding: 4px;
+ 	margin-left: 30px;
+ 	color: black;
+ 	font-family: calibri;
+}
+.hello{
+	margin: 0;
+	color: white;
+	font-size: 60px;
+	margin-left: 120px;
+	text-shadow: 3px 3px 3px black;
+	background-color: pink;
+}
+.welcome{
+	margin: 0;
+	color: white;
+	font-size:100px;
+	text-shadow: 3px 2px 2px black;
+	
+}
+.personal{
+	margin: 0;
+	color: white;
+	font-size: 40px;
+	text-shadow: 2px 1px 1px black;
+	background-color: blue;
+}
+button{
+	width: 120px;
+	height: 50px;
+	margin-top:5px;
+	border-radius: 20px;
+	background-color: steelblue;
+	color: white;
+}
+.contain{
+	margin-left: 120px;
+}
+.connect{
+	margin: 0;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+
+}
+h1{
+	font-family: Courier New;
+}
